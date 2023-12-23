@@ -1,0 +1,27 @@
+html{
+    background-color: brown;
+}
+
+p, li{ color: antiquewhite;
+    width: 600px;}
+
+
+h1 {
+    font-size: 50px;
+    color: azure;
+    text-shadow: 2px 2px 2px rgb(112, 2, 2);
+    padding: 20px 0;
+}
+
+h2,h3 {
+    color: azure;
+    text-shadow: 2px 2px 2px rgb(112, 2, 2);
+}
+
+a{color: rgb(230, 123, 123);}
+
+hr{color: rgb(57, 10, 10);
+background-color: rgb(57, 10, 10);
+height: 2px;
+border: none;}
+
